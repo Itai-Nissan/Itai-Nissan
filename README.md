@@ -2,7 +2,6 @@
 - A passionate frontend / fullstack developer from israel,
 - I’m currently working on Free to game - https://itai-nissan.github.io/free-to-game/
 - My 'Fiver' inspired project, using Vue, nodejs & mongoDb - Quiderr - https://quiderr.onrender.com/#/
-- You can reach me at: itainissan@gmail.com
 - I’m currently focusing on react % sql
 
 - My skils:
