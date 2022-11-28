@@ -6,7 +6,7 @@ I’m currently focusing on nuxtjs.
 
 ## My skils:
 - Programming Languages - Javascript, TS.
-- Frontend Development - [Vue](https://vuejs.org/), [Angular 14](https://angular.io/), [scss](https://sass-lang.com/guide), [css](https://developer.mozilla.org/en-US/docs/Web/CSS), [webpack](https://webpack.js.org/), [bootstrap](https://getbootstrap.com/), [vuetify](https://vuetifyjs.com/en/).
+- Frontend Development - [Vue](https://vuejs.org/), [Angular](https://angular.io/), [scss](https://sass-lang.com/guide), [css](https://developer.mozilla.org/en-US/docs/Web/CSS), [webpack](https://webpack.js.org/), [bootstrap](https://getbootstrap.com/), [vuetify](https://vuetifyjs.com/en/).
 - Backend Development - [nodejs](https://nodejs.org/en/), [expressjs](https://expressjs.com/).
 - Database - [mongoDb](https://www.mongodb.com/home), [MySql](https://www.mysql.com/).
 - Backend as a Service(BaaS) - [Firebase](https://firebase.com/), [Heroku](https://www.heroku.com/), [Render](https://render.com/).
