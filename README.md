@@ -1,18 +1,18 @@
-- Hi, I’m Itai-Nissan
-- A passionate frontend / fullstack developer from israel,
-- I’m currently working on Free to game - https://itai-nissan.github.io/free-to-game/
-- My 'Fiver' clone project, using Vue, nodejs & mongoDb - Quiderr - https://quiderr.onrender.com/#/
-- I’m currently focusing on react & sql
+## Hi, I’m Itai-Nissan
+A passionate frontend / fullstack developer from israel.
+I’m currently working on Free to game - https://itai-nissan.github.io/free-to-game/
+My 'Fiver' clone project, using Vue, nodejs & mongoDb - [Quiderr](https://quiderr.onrender.com/#/)
+I’m currently focusing on react & sql
 
-- My skils:
+## My skils:
 - Programming Languages - js, TS.
-- Frontend Development - Vue, Angular, React, Sass, css, webpack, boostrap, vuetify.
+- Frontend Development - Vue, Angular, Sass, css, webpack, boostrap, vuetify.
 - Backend Development - nodejs, expressjs.
 - Database - mongoDb, MySql.
 - Backend as a Service(BaaS) - Firebase, Heroku.
 - Software - Postman, xd.
-- Static Site Generators - nextjs, nuxt js.
+- Static Site Generators - nuxt js.
 
-- Social:
+##Social:
 - Email - itainissan@gmail.com
 - Linkdin - https://www.linkedin.com/in/itai-nissan-b4624821a/
