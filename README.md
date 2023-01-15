@@ -15,4 +15,4 @@ I’m currently focusing on nuxtjs.
 
 ##Social:
 - Email - itainissan@gmail.com
-- Linkdin - https://www.linkedin.com/in/itai-nissan-b4624821a/
+- Linkdin - https://www.linkedin.com/in/itainissan
